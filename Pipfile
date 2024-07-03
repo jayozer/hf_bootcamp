@@ -9,6 +9,7 @@ diffusers = "*"
 datasets = "*"
 evaluate = "*"
 accelerate = "*"
+ipywidgets = "*"
 
 [dev-packages]
 ipykernel = "*"
